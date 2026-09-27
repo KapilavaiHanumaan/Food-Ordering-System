@@ -1,0 +1,7 @@
+# Logs
+*.log
+
+# Windows shortcuts / system files
+*.lnk
+desktop.ini
+Thumbs.db
